@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\kshuy\onedrive\documents\visual studio 2015\projects\chuong trinh tinh thue\chuong trinh tinh thue\source.cpp(118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kshuy\onedrive\documents\visual studio 2015\projects\chuong trinh tinh thue\chuong trinh tinh thue\source.cpp(128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kshuy\onedrive\documents\visual studio 2015\projects\chuong trinh tinh thue\chuong trinh tinh thue\source.cpp(135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kshuy\onedrive\documents\visual studio 2015\projects\chuong trinh tinh thue\chuong trinh tinh thue\source.cpp(142): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Chuong trinh tinh thue.vcxproj -> C:\Users\kshuy\OneDrive\Documents\Visual Studio 2015\Projects\Chuong trinh tinh thue\Debug\Chuong trinh tinh thue.exe
+  Chuong trinh tinh thue.vcxproj -> C:\Users\kshuy\OneDrive\Documents\Visual Studio 2015\Projects\Chuong trinh tinh thue\Debug\Chuong trinh tinh thue.pdb (Partial PDB)
